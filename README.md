@@ -11,7 +11,7 @@ Authors were created from MySQL database, but also a button like "Become an Auth
 ![post](https://github.com/frknertnt/blogProject-backendPractice/blob/main/images/post.png)
 
 ## Detail Post
-If you click on the "View Post" you can see some details about post date, post body etc. And if you click on the post authors which seems blue you can send to a mail author. 
+If you click on the "View Post" you can see some details about post date, post body etc. And if you click on the post authors which seems blue you can send a mail to author. 
 (Date writing format is Javascript attributes used for readability)
 ![detail](https://github.com/frknertnt/blogProject-backendPractice/blob/main/images/detail.png)
 
